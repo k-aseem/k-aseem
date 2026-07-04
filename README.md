@@ -12,14 +12,6 @@ I like turning messy workflows into reliable products: APIs that are easy to use
 - Observability, debugging, and reliability with Datadog, Sentry, Prometheus, Grafana, OpenTelemetry, Jaeger, CloudWatch, and Kibana
 - Internal tools, fintech/payments systems, healthcare products, and AI/LLM-powered automation
 
-## Selected Projects
-
-- [DuckyAI](https://github.com/k-aseem/DuckyAI): generative AI-powered code assistant built in Python
-- [carcool-backend](https://github.com/k-aseem/carcool-backend): backend APIs for a ride-sharing web app
-- [bookhub-backend](https://github.com/k-aseem/bookhub-backend): Java backend APIs for a bookstore system
-- [receipt-processor](https://github.com/k-aseem/receipt-processor): Java implementation of the Fetch Rewards receipt processor challenge
-- [ResearchMentor](https://github.com/k-aseem/ResearchMentor): Python project for research-oriented workflows
-
 ## Tech I Use
 
 **Languages:** Java, Python, TypeScript, JavaScript, Go, C#, SQL  
