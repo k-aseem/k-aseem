@@ -2,7 +2,7 @@
 
 Software engineer in San Francisco, CA, building backend, full-stack, and cloud-native systems.
 
-I like turning messy workflows into reliable products: APIs that are easy to use, services that are observable in production, and tools that help teams move faster. My work spans Java/Spring Boot, Python/Django/FastAPI, React/TypeScript, Node.js, GraphQL, SQL, cloud platforms, and production debugging.
+I build backend and full-stack systems for product teams. My work spans Java/Spring Boot, Python/Django/FastAPI, React/TypeScript, Node.js, GraphQL, SQL, cloud platforms, and production debugging.
 
 ## What I Work On
 
