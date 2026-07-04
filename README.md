@@ -30,4 +30,4 @@ I like building reliable systems that make complicated workflows feel simple. My
 ## Connect
 
 - GitHub: [@k-aseem](https://github.com/k-aseem)
-- LinkedIn: [Aseem Khandelwal](https://www.linkedin.com/in/aseem-khandelwal/)
+- LinkedIn: [Aseem Khandelwal](https://www.linkedin.com/in/k-aseem/)
