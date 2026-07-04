@@ -25,7 +25,6 @@ I like building reliable systems that make complicated workflows feel simple. My
 
 - Building and supporting production software across backend, full-stack, and AI-assisted internal tooling
 - Deepening work around distributed systems, platform engineering, and LLM-driven developer workflows
-- Open to software engineering opportunities in the San Francisco Bay Area and remote U.S. teams
 
 ## Connect
 
